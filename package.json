@@ -10,7 +10,7 @@
     }
   ],
   "dependencies": {
-    "lame": "1.1.x"
+    "lame": "1.2.x"
   },
   "devDependencies": {},
   "homepage": "http://github.com/vincentsaluzzo/node-microphone",
